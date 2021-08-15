@@ -1,0 +1,59 @@
+body {
+    margin-top: 60px;
+    margin-right: 20px;
+    background: black;
+
+}
+h1 {
+    font-size: 300%;
+    font-display: auto;
+    color: blue;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+p{
+    font-size: 200%;
+    color: rgb(150, 219, 81);
+    text-align: center;
+}
+
+h2{
+    font-size: 260%;
+    text-align: center;
+    color: purple;
+}
+
+div{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    text-align: right;
+    font-size: 200%;
+    color: plum;
+}
+li{
+    text-align: left;
+}
+.pagerLink a
+  {
+    text-decoration:none !important;
+}
+.test{
+    height:80px;
+    width:200px;
+    color: rgb(79, 194, 79);
+    font-size: 30px;
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(66, 17, 17);
+}
+
+#footer {
+    height: 200px;
+    font-size: 14px;
+    width: 1200px;
+    color: rgb(150, 219, 81);
+}
